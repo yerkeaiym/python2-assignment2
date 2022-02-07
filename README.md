@@ -27,8 +27,7 @@ python manage.py runserver
 Outputs will be like these:
 ## Examples
 Outputs will be like these:
-![image](https://web.telegram.org/d8350d89-f2b3-4551-8d94-f2e694739537.png)
-![image](https://web.telegram.org/480ff8a5-2a32-44f9-ac22-0baa93c8bc29.png)
+![Screenshot](https://web.telegram.org/d8350d89-f2b3-4551-8d94-f2e694739537.png)
 
 ```bash
 
