@@ -25,11 +25,13 @@ python manage.py runserver
 ```
 ## Examples
 Outputs will be like these:
+## Examples
+Outputs will be like these:
+![image](blob:https://web.telegram.org/d8350d89-f2b3-4551-8d94-f2e694739537.png)
+![image](blob:https://web.telegram.org/480ff8a5-2a32-44f9-ac22-0baa93c8bc29.png)
+
 ```bash
-![image](![image](![image](https://user-images.githubusercontent.com/77783049/152747178-86dac7bd-8271-49cb-8a38-d3b80bc9fb6d.png)
-)
-![image](![image](blob:https://web.telegram.org/480ff8a5-2a32-44f9-ac22-0baa93c8bc29)
-![image](![image](blob:https://web.telegram.org/7eb4866a-7ced-4070-9c27-1daedfecee3d)
+
 ```
 Our tokens saved in database
 ## License
