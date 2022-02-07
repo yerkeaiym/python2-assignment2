@@ -27,8 +27,8 @@ python manage.py runserver
 Outputs will be like these:
 ## Examples
 Outputs will be like these:
-![Screenshot](https://web.telegram.org/d8350d89-f2b3-4551-8d94-f2e694739537.png)
-
+![alt tag](![image](https://user-images.githubusercontent.com/77783049/152748378-dc677c9c-e8e7-4afa-8827-fb74c9338b32.png)
+)
 ```bash
 
 ```
